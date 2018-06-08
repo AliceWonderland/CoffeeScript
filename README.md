@@ -12,6 +12,9 @@ Intall Node.js and git
 
 ### Resources
 https://coffeescript.org/
+
 https://coffeescript-cookbook.github.io/
+
 https://www.tutorialspoint.com/coffeescript/
+
 https://www.w3resource.com/coffeescript-exercises/
